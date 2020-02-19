@@ -12,7 +12,7 @@ public class Calcula {
         num2 = Double.parseDouble(conv);
 
         resp = num1 + num2;
-        JOptionPane.showMessageDialog(null, "a soma és: " + resp);
+        JOptionPane.showMessageDialog(null, "a soma é: " + resp);
         
 
     }
